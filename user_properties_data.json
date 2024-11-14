@@ -1,0 +1,1282 @@
+[
+  {
+    "User": {
+      "Customer_ID": 21328380,
+      "Name": "User_21328380",
+      "Age": 48,
+      "Gender": "Other",
+      "Location": "Chicago",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 25751621,
+      "Name": "User_25751621",
+      "Age": 61,
+      "Gender": "Male",
+      "Location": "Houston",
+      "Occupation": "Engineer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 33236991,
+      "Name": "User_33236991",
+      "Age": 59,
+      "Gender": "Male",
+      "Location": "Los Angeles",
+      "Occupation": "Artist",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 41127331,
+      "Name": "User_41127331",
+      "Age": 60,
+      "Gender": "Male",
+      "Location": "Chicago",
+      "Occupation": "Artist",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 43089862,
+      "Name": "User_43089862",
+      "Age": 55,
+      "Gender": "Other",
+      "Location": "New York",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 45105900,
+      "Name": "User_45105900",
+      "Age": 47,
+      "Gender": "Other",
+      "Location": "Los Angeles",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 45642566,
+      "Name": "User_45642566",
+      "Age": 39,
+      "Gender": "Other",
+      "Location": "Houston",
+      "Occupation": "Teacher",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 52366670,
+      "Name": "User_52366670",
+      "Age": 53,
+      "Gender": "Female",
+      "Location": "New York",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 64866050,
+      "Name": "User_64866050",
+      "Age": 59,
+      "Gender": "Female",
+      "Location": "New York",
+      "Occupation": "Teacher",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 92314445,
+      "Name": "User_92314445",
+      "Age": 52,
+      "Gender": "Male",
+      "Location": "Phoenix",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 112524599,
+      "Name": "User_112524599",
+      "Age": 40,
+      "Gender": "Female",
+      "Location": "New York",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 121006960,
+      "Name": "User_121006960",
+      "Age": 61,
+      "Gender": "Other",
+      "Location": "New York",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 128038397,
+      "Name": "User_128038397",
+      "Age": 28,
+      "Gender": "Other",
+      "Location": "Chicago",
+      "Occupation": "Engineer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 133266972,
+      "Name": "User_133266972",
+      "Age": 29,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Artist",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 145157385,
+      "Name": "User_145157385",
+      "Age": 40,
+      "Gender": "Other",
+      "Location": "Los Angeles",
+      "Occupation": "Teacher",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 153992726,
+      "Name": "User_153992726",
+      "Age": 30,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Engineer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 177276460,
+      "Name": "User_177276460",
+      "Age": 28,
+      "Gender": "Male",
+      "Location": "Phoenix",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 209175900,
+      "Name": "User_209175900",
+      "Age": 62,
+      "Gender": "Male",
+      "Location": "Phoenix",
+      "Occupation": "Artist",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 216853892,
+      "Name": "User_216853892",
+      "Age": 57,
+      "Gender": "Female",
+      "Location": "Houston",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 222309511,
+      "Name": "User_222309511",
+      "Age": 61,
+      "Gender": "Female",
+      "Location": "New York",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 286378614,
+      "Name": "User_286378614",
+      "Age": 59,
+      "Gender": "Male",
+      "Location": "Houston",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 288703197,
+      "Name": "User_288703197",
+      "Age": 57,
+      "Gender": "Other",
+      "Location": "Phoenix",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 292987337,
+      "Name": "User_292987337",
+      "Age": 51,
+      "Gender": "Male",
+      "Location": "Phoenix",
+      "Occupation": "Engineer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 296011314,
+      "Name": "User_296011314",
+      "Age": 62,
+      "Gender": "Female",
+      "Location": "Chicago",
+      "Occupation": "Artist",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 296726294,
+      "Name": "User_296726294",
+      "Age": 36,
+      "Gender": "Other",
+      "Location": "Chicago",
+      "Occupation": "Artist",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 301083574,
+      "Name": "User_301083574",
+      "Age": 56,
+      "Gender": "Male",
+      "Location": "Chicago",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 304970610,
+      "Name": "User_304970610",
+      "Age": 47,
+      "Gender": "Other",
+      "Location": "Los Angeles",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 308612277,
+      "Name": "User_308612277",
+      "Age": 36,
+      "Gender": "Other",
+      "Location": "Phoenix",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 317989834,
+      "Name": "User_317989834",
+      "Age": 54,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 348040416,
+      "Name": "User_348040416",
+      "Age": 59,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Artist",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 361579791,
+      "Name": "User_361579791",
+      "Age": 27,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 371759785,
+      "Name": "User_371759785",
+      "Age": 64,
+      "Gender": "Other",
+      "Location": "Los Angeles",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 379861641,
+      "Name": "User_379861641",
+      "Age": 45,
+      "Gender": "Male",
+      "Location": "Los Angeles",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 422068971,
+      "Name": "User_422068971",
+      "Age": 29,
+      "Gender": "Male",
+      "Location": "Los Angeles",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 430648990,
+      "Name": "User_430648990",
+      "Age": 62,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Doctor",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 431599101,
+      "Name": "User_431599101",
+      "Age": 44,
+      "Gender": "Other",
+      "Location": "Houston",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 446284395,
+      "Name": "User_446284395",
+      "Age": 37,
+      "Gender": "Female",
+      "Location": "Phoenix",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 458087397,
+      "Name": "User_458087397",
+      "Age": 28,
+      "Gender": "Male",
+      "Location": "Houston",
+      "Occupation": "Engineer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 468925011,
+      "Name": "User_468925011",
+      "Age": 39,
+      "Gender": "Female",
+      "Location": "Phoenix",
+      "Occupation": "Teacher",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 484015193,
+      "Name": "User_484015193",
+      "Age": 45,
+      "Gender": "Male",
+      "Location": "Houston",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 485272451,
+      "Name": "User_485272451",
+      "Age": 39,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 493002016,
+      "Name": "User_493002016",
+      "Age": 54,
+      "Gender": "Male",
+      "Location": "Chicago",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 504296551,
+      "Name": "User_504296551",
+      "Age": 36,
+      "Gender": "Other",
+      "Location": "New York",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 507931198,
+      "Name": "User_507931198",
+      "Age": 41,
+      "Gender": "Female",
+      "Location": "Houston",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 510886092,
+      "Name": "User_510886092",
+      "Age": 62,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Artist",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 528849347,
+      "Name": "User_528849347",
+      "Age": 29,
+      "Gender": "Female",
+      "Location": "Phoenix",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 530868640,
+      "Name": "User_530868640",
+      "Age": 46,
+      "Gender": "Male",
+      "Location": "Los Angeles",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 544029376,
+      "Name": "User_544029376",
+      "Age": 43,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 562930223,
+      "Name": "User_562930223",
+      "Age": 63,
+      "Gender": "Other",
+      "Location": "Phoenix",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 613811176,
+      "Name": "User_613811176",
+      "Age": 56,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 620346137,
+      "Name": "User_620346137",
+      "Age": 52,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 632584980,
+      "Name": "User_632584980",
+      "Age": 38,
+      "Gender": "Female",
+      "Location": "Chicago",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 632682891,
+      "Name": "User_632682891",
+      "Age": 45,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 640424612,
+      "Name": "User_640424612",
+      "Age": 64,
+      "Gender": "Other",
+      "Location": "New York",
+      "Occupation": "Artist",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 643035019,
+      "Name": "User_643035019",
+      "Age": 29,
+      "Gender": "Male",
+      "Location": "Los Angeles",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 654754935,
+      "Name": "User_654754935",
+      "Age": 47,
+      "Gender": "Other",
+      "Location": "New York",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 657741635,
+      "Name": "User_657741635",
+      "Age": 48,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Engineer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 669291919,
+      "Name": "User_669291919",
+      "Age": 64,
+      "Gender": "Other",
+      "Location": "Houston",
+      "Occupation": "Artist",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 673823789,
+      "Name": "User_673823789",
+      "Age": 41,
+      "Gender": "Female",
+      "Location": "New York",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 688430376,
+      "Name": "User_688430376",
+      "Age": 31,
+      "Gender": "Male",
+      "Location": "Chicago",
+      "Occupation": "Doctor",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Education",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 689988366,
+      "Name": "User_689988366",
+      "Age": 53,
+      "Gender": "Female",
+      "Location": "New York",
+      "Occupation": "Doctor",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 700623299,
+      "Name": "User_700623299",
+      "Age": 49,
+      "Gender": "Female",
+      "Location": "Los Angeles",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 717516421,
+      "Name": "User_717516421",
+      "Age": 31,
+      "Gender": "Other",
+      "Location": "Chicago",
+      "Occupation": "Doctor",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 726281579,
+      "Name": "User_726281579",
+      "Age": 64,
+      "Gender": "Male",
+      "Location": "Chicago",
+      "Occupation": "Artist",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 738625409,
+      "Name": "User_738625409",
+      "Age": 57,
+      "Gender": "Male",
+      "Location": "Phoenix",
+      "Occupation": "Engineer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 751433004,
+      "Name": "User_751433004",
+      "Age": 38,
+      "Gender": "Other",
+      "Location": "New York",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 755560595,
+      "Name": "User_755560595",
+      "Age": 65,
+      "Gender": "Other",
+      "Location": "Phoenix",
+      "Occupation": "Lawyer",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 769888908,
+      "Name": "User_769888908",
+      "Age": 39,
+      "Gender": "Other",
+      "Location": "Phoenix",
+      "Occupation": "Doctor",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 776964728,
+      "Name": "User_776964728",
+      "Age": 30,
+      "Gender": "Other",
+      "Location": "Phoenix",
+      "Occupation": "Engineer",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 792560668,
+      "Name": "User_792560668",
+      "Age": 52,
+      "Gender": "Other",
+      "Location": "Phoenix",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 796954027,
+      "Name": "User_796954027",
+      "Age": 32,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Teacher",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 816087120,
+      "Name": "User_816087120",
+      "Age": 28,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Artist",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 843400111,
+      "Name": "User_843400111",
+      "Age": 47,
+      "Gender": "Male",
+      "Location": "Phoenix",
+      "Occupation": "Artist",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Balanced"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 866366221,
+      "Name": "User_866366221",
+      "Age": 38,
+      "Gender": "Other",
+      "Location": "Los Angeles",
+      "Occupation": "Teacher",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 903765922,
+      "Name": "User_903765922",
+      "Age": 25,
+      "Gender": "Other",
+      "Location": "Chicago",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Beginner",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "High",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 940818614,
+      "Name": "User_940818614",
+      "Age": 60,
+      "Gender": "Other",
+      "Location": "Chicago",
+      "Occupation": "Engineer",
+      "Income_Bracket": "Low",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 945739499,
+      "Name": "User_945739499",
+      "Age": 44,
+      "Gender": "Male",
+      "Location": "Houston",
+      "Occupation": "Engineer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Environmental",
+      "Financial_Goals": "Retirement",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 958332022,
+      "Name": "User_958332022",
+      "Age": 35,
+      "Gender": "Male",
+      "Location": "New York",
+      "Occupation": "Artist",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Intermediate",
+      "Ethical_Preferences": "Social",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Medium",
+      "Goal_Type": "Growth"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 959355462,
+      "Name": "User_959355462",
+      "Age": 60,
+      "Gender": "Female",
+      "Location": "Phoenix",
+      "Occupation": "Teacher",
+      "Income_Bracket": "Medium",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "Governance",
+      "Financial_Goals": "Emergency Fund",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Income"
+    }
+  },
+  {
+    "User": {
+      "Customer_ID": 986058019,
+      "Name": "User_986058019",
+      "Age": 25,
+      "Gender": "Male",
+      "Location": "Phoenix",
+      "Occupation": "Engineer",
+      "Income_Bracket": "High",
+      "Investment_Experience_Level": "Advanced",
+      "Ethical_Preferences": "None",
+      "Financial_Goals": "Wealth Building",
+      "Risk_Tolerance": "Low",
+      "Goal_Type": "Balanced"
+    }
+  }
+]
